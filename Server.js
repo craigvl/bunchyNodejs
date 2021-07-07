@@ -1,4 +1,4 @@
-﻿var Hapi = require('hapi');
+﻿var Hapi = require('hapi');//happy
 var server = new Hapi.Server(3000);
 var http = require('http');
 var requests = require('request');
